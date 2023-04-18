@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hager Ben Mansour</h1>
-<h3 align="center">Software Engineer @100devs | Tech innovator</h3>
+<h3 align="center">Software Engineer | Tech innovator</h3>
 
 <p align="left"> <a href="https://twitter.com/hagerbenmansour" target="blank"><img src="https://img.shields.io/twitter/follow/hagerbenmansour?logo=twitter&style=for-the-badge" alt="hagerbenmansour" /></a> </p>
 
