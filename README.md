@@ -4,9 +4,10 @@
 
 ## About Me
 
-I'm a full-stack developer with a background in customer service, passionate about tech and human connection. I'm always eager to learn new things, naturally curious, and enjoy being creative. Problem-solving is my thing, and I'm all about finding innovative solutions. Understanding how things work fascinates me. When I'm not coding, you'll find me immersed in books, trying new recipes, watching home renovation and interior design shows, or learning new languages.
+I'm a full-stack developer, I bring a passion for both technology and human connection to my work. 
+I'm always eager to learn new things and love problem-solving, I'm constantly seeking out new challenges and innovative solutions. When I'm not coding, you'll find me immersed in books, trying new recipes, watching home renovation and interior design shows, or learning new languages.
 
-- 👀 I’m interested in full stack development, collaboration, learning, and building cool stuff.
+- 👀 I’m interested in full-stack development, collaboration, learning, and building cool projects.
 
 - 🌱 I’m currently learning  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
 
