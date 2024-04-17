@@ -41,7 +41,7 @@ I'm a full-stack developer, I love tech and connecting with people. Always excit
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hagerbm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hagerbm&show_icons=true&locale=en&layout=compact" alt="hagerbm" /></p>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
