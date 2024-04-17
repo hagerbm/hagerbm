@@ -2,9 +2,6 @@
 <img src="https://visitcount.itsvg.in/api?id=nicholemcgrew&icon=0&color=11" alt="Visit Count" style="float: right;">
 
 
-
-<img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
-
 ## About Me
 
 I'm a full-stack developer with a background in customer service, passionate about tech and human connection. I'm always eager to learn new things, naturally curious, and enjoy being creative. Problem-solving is my thing, and I'm all about finding innovative solutions. Understanding how things work fascinates me. When I'm not coding, you'll find me immersed in books, trying new recipes, watching home renovation and interior design shows, or learning new languages.
@@ -50,4 +47,4 @@ I'm a full-stack developer with a background in customer service, passionate abo
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ## <h2>🐍 My Contributions 🐍</h2>
-![snake gif](https://github.com/nicholemcgrew/nicholemcgrew/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/hagerbm/hagerbm/blob/output/github-contribution-grid-snake-dark.svg)
