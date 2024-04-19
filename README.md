@@ -8,7 +8,7 @@ I'm a full-stack developer, I love tech and connecting with people. Always excit
 
 - 👀 I’m interested in full-stack development, collaboration, learning, and building cool projects.
 
-- 🌱 I’m currently learning AWS services such as <a href="https://aws.amazon.com/docker/" target="_blank" rel="noreferrer">Docker on AWS</a> for containerization and deployment.
+- 🌱 I’m currently learning AWS services.
   
 - 👨‍💻 Checkout my portfolio  [🌐](https://hagerbenmansour.netlify.app/)
 
