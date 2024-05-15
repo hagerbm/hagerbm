@@ -1,4 +1,4 @@
-![GitHub Banner]([banner-heading.png](https://github.com/hagerbm/hagerbm/blob/afd805872801f26a26601edc41511153ba412a1d/banner-heading.png))
+![GitHub Banner](https://github.com/hagerbm/hagerbm/blob/afd805872801f26a26601edc41511153ba412a1d/banner-heading.png)
 
 
 <h1 style="float: left;">Hi 👋, I'm Hager</h1>
