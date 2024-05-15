@@ -10,13 +10,6 @@ I'm a full-stack developer, I love tech and connecting with people. Always excit
   
 - 👨‍💻 Checkout my portfolio  [🌐](https://hagerbenmansour.netlify.app/)
 
-
-## 🌎 Let's Connect:
-<p align="left">
-<a href="https://www.linkedin.com/in/hager-ben-mansour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholemcgrew" height="30" width="40" /></a>
-</p>
-
-
 ## 💻 Languages & Frameworks:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,6 +35,3 @@ I'm a full-stack developer, I love tech and connecting with people. Always excit
 
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hagerbm&show_icons=true&locale=en&layout=compact" alt="hagerbm" /></p>
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
