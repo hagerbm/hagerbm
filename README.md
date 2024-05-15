@@ -1,8 +1,5 @@
 ![GitHub Banner](https://github.com/hagerbm/hagerbm/blob/afd805872801f26a26601edc41511153ba412a1d/banner-heading.png)
 
-
-<h1 style="float: left;">Hi 👋, I'm Hager</h1>
-
 ## About Me
 
 I'm a full-stack developer, I love tech and connecting with people. Always excited to learn and solve problems, I enjoy trying new things. When I'm not coding, you'll find me immersed in books, trying new recipes, or watching home renovation and interior design shows.
