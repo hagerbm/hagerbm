@@ -4,7 +4,7 @@
 
 I'm a full-stack developer, I love tech and connecting with people. Always excited to learn and solve problems, I enjoy trying new things. When I'm not coding, you'll find me immersed in books, trying new recipes, or watching home renovation and interior design shows.
 
-- 👀 I’m interested in full-stack development, collaboration, learning, and building cool projects.
+- 👀 I’m interested in collaboration, learning, and building cool projects.
 
 - 🌱 I’m currently learning AWS services.
   
