@@ -6,7 +6,7 @@ I'm a full-stack developer, I love tech and connecting with people. Always excit
 
 - 👀 I’m interested in collaboration, learning, and building cool projects.
 
-- 🌱 I’m currently learning AWS services.
+- 🌱 I’m currently learning AWS Cloud.
   
 - 👨‍💻 Checkout my portfolio  [🌐](https://hagerbenmansour.netlify.app/)
 
