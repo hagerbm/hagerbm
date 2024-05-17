@@ -1,4 +1,4 @@
-![GitHub Banner]()
+![GitHub Banner](https://github.com/hagerbm/hagerbm/blob/d017c877c8d67863d0a7eef60fd14eaa970e674b/banner.png)
 
 ## About Me
 
