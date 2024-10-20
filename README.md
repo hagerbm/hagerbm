@@ -32,6 +32,3 @@ I'm a software developer, and I love tech and connecting with people. Always exc
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-# 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hagerbm&show_icons=true&locale=en&layout=compact" alt="hagerbm" /></p>
